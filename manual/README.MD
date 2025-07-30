@@ -116,5 +116,5 @@ get_result_viewer("result_output_path.txt", type="WEBVIEW")
 Email the author at [eussmool@gmail.com](mailto:eussmool@gmail.com) or visit the repository:
 🔗 [https://github.com/ssmool/blahzlow](https://github.com/ssmool/blahzlow)
 
-```
+
 
