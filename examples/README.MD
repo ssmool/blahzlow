@@ -1,8 +1,5 @@
 Here's a complete `README.md` file for your project **Blahzlow** usage manual, including the image reference and clearly organized roadmap steps to guide users:
 
----
-
-````markdown
 # Blahzlow Automated Tests for Python Developers
 
 ![Blahzlow Logo](./assets/blahzlow_x0.gif)
