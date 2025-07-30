@@ -151,5 +151,3 @@ If you encounter any issues, feel free to open an issue in the GitHub repository
 ## 🧠 About the Project
 
 Blahzlow is aimed at simplifying automation test management using a clean boardtest architecture. Write once, configure steps, and execute with flexible output visualization — perfect for CI pipelines or local validations.
-
-```
