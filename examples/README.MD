@@ -16,7 +16,7 @@ Author: [#asytrick](https://github.com/asytrick)
 Install the package via pip:
 
 ```bash
-pip install blahzlow
+[# pip install blahzlow -- #UNDERCONSTRUCTION AND COMMING SOON ]
 ````
 
 ---
@@ -152,9 +152,4 @@ If you encounter any issues, feel free to open an issue in the GitHub repository
 
 Blahzlow is aimed at simplifying automation test management using a clean boardtest architecture. Write once, configure steps, and execute with flexible output visualization — perfect for CI pipelines or local validations.
 
-```
-
----
-
-Let me know if you’d like this exported as a PDF or also want to generate a sample GitHub repository structure.
 ```
